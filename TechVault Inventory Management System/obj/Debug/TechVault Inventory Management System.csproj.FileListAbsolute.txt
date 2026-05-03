@@ -1,0 +1,10 @@
+C:\Users\tremo\source\repos\TechVault Inventory Management System\obj\Debug\TechVault Inventory Management System.csproj.AssemblyReference.cache
+C:\Users\tremo\source\repos\TechVault Inventory Management System\obj\Debug\TechVault_Inventory_Management_System.Properties.Resources.resources
+C:\Users\tremo\source\repos\TechVault Inventory Management System\obj\Debug\TechVault Inventory Management System.csproj.GenerateResource.cache
+C:\Users\tremo\source\repos\TechVault Inventory Management System\obj\Debug\TechVault Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\tremo\source\repos\TechVault Inventory Management System\bin\Debug\TechVault Inventory Management System.exe.config
+C:\Users\tremo\source\repos\TechVault Inventory Management System\bin\Debug\TechVault Inventory Management System.exe
+C:\Users\tremo\source\repos\TechVault Inventory Management System\bin\Debug\TechVault Inventory Management System.pdb
+C:\Users\tremo\source\repos\TechVault Inventory Management System\obj\Debug\TechVault_Inventory_Management_System.DashboardForm.resources
+C:\Users\tremo\source\repos\TechVault Inventory Management System\obj\Debug\TechVault Inventory Management System.exe
+C:\Users\tremo\source\repos\TechVault Inventory Management System\obj\Debug\TechVault Inventory Management System.pdb
